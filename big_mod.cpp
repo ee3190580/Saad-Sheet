@@ -49,11 +49,13 @@ int main()
  }
   return 0;
 }
-//how to take input when you don't have pre-knowledge about no. of testcases & also know symbol to that this is last input
+//how to take input when you don't have pre-knowledge about no. of testcases & also don't know symbol of what will be the last input
 /*
  while(cin>>b>>p>>m){
 		res.push_back(find(b,p,m));
  }
 	this will stop automatically when there are no more inputs. 
 	In the cin>>.... part change ac. to number of input in each test case section.
+        BUT you won't be able to give inputs in this manner in TERMINAL.
+
 */
